@@ -6,7 +6,7 @@
 
   -	Başlamak için bilgisayarınıza **Unity Hub**’ı yükleyin.
 	- ***[Unity Hub](https://unity3d.com/get-unity/download)***
-  -	Unity Hub’ı açarak **‘Installs’** sekmesindeki **‘Official Releases’** kısmından en güncel Unity versiyonunu yükleyin. Yükleme sırasında **Visual Studio’**nun da yüklendiğine emin olun.	
+  -	Unity Hub’ı açarak **‘Installs’** sekmesindeki **‘Official Releases’** kısmından en güncel Unity versiyonunu yükleyin. Yükleme sırasında **Visual Studio**’nun da yüklendiğine emin olun.	
   
   -	**‘Projects’** sekmesinde sağ tarafta bulunan **‘New’** butonuna basın. Projenize bir isim vererek yeni bir proje oluşturun.
   -	GitHub’da bulunan **‘Assets’** klasörü içerisindeki dosyaları projenizin **‘Assets’** klasöri içine atın.

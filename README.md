@@ -9,7 +9,7 @@
   -	Unity Hub’ı açarak **‘Installs’** sekmesindeki **‘Official Releases’** kısmından en güncel Unity versiyonunu yükleyin. Yükleme sırasında **Visual Studio**’nun da yüklendiğine emin olun.	
   
   -	**‘Projects’** sekmesinde sağ tarafta bulunan **‘New’** butonuna basın. Projenize bir isim vererek yeni bir proje oluşturun.
-  -	GitHub’da bulunan **‘Assets’** klasörü içerisindeki dosyaları projenizin **‘Assets’** klasöri içine atın.
+  -	GitHub’da bulunan **‘Assets’** klasörü içerisindeki dosyaları projenizin **‘Assets’** klasörü içine atın.
   - Bu derste bir oyunda yapılmakta olan bir etkinlik için gerekli olan kod yazılacaktır. Etkinlikte oyunculardan rastgele birer sayı yazmaları istenmektedir. Girilen sayılar içerisindeki şanslı iki kişi bulunarak ödüllendirilmektedir. Bu iki kişiyi bulmak içinse şu yol izlenmektedir:
 	- İlk saniye içerisinde girilen sayılardan en küçük 17. sayıyı giren kişi 1. şanslı kişi olmaktadır.
 	- Ardından girilen sayılarda 1. şanslı kişi ile aynı sayıyı giren ilk kişi ikinci şanslı kişi olmaktadır.
